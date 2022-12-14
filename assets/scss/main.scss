@@ -1,0 +1,34 @@
+.sobre-web-design {
+    align-items:center;
+    article {
+        width: 250px;
+        h1 {
+            font-size: 70px;
+            font-weight: 400;
+            line-height:90%;
+            color: #333366;
+        }
+        h2 {
+            font-size: 30px;
+            text-transform: upperCase;
+            letter-spacing: 2px;
+            line-height: 200%;
+            color:#3399cc;
+        }
+        p {
+            color:#3399cc;
+            margin: 10px 0 40px;
+        }
+    }
+    figcaption {
+        img {
+            width: 700px;
+        }
+    }
+}
+
+
+
+
+
+
