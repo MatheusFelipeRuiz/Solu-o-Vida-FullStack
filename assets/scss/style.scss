@@ -1,4 +1,8 @@
+/* # Fontes */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400&display=swap');
+/* # Componentes */
 @import "./header.scss";
+@import "./buttons.scss";
 
 * {
     margin:0;
@@ -7,4 +11,5 @@
     font-size:100%;
     font: inherit;
     vertical-align: baseline;
+    text-decoration:none;
 }

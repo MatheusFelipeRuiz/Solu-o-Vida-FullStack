@@ -10,9 +10,13 @@ header {
         ul {
             display:flex;
             flex-direction:row;
+            align-items:center;
             list-style:none;
             li {
-                padding: 0 15px;
+                margin: 0  15px;
+                a {
+                    color: #3399cc;
+                }
             }
         }
     }
