@@ -1,23 +1,21 @@
 header {
-    width: 1024px;
-    margin: 0 auto;
-    display:flex;
-    flex-direction:row;
-    justify-content:space-between;
-    align-items:center;
-
-    nav {
-        ul {
-            display:flex;
-            flex-direction:row;
-            align-items:center;
-            list-style:none;
-            li {
-                margin: 0  15px;
-                a {
-                    color: #3399cc;
+    section {
+        justify-content:space-between;
+        align-items:center;
+        nav {
+            ul {
+                display:flex;
+                flex-direction:row;
+                align-items:center;
+                list-style:none;
+                li {
+                    margin: 0  15px;
+                    a {
+                        color: #3399cc;
+                    }
                 }
             }
         }
     }
+
 }
